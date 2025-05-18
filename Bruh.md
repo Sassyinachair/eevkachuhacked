@@ -7,6 +7,6 @@
 - ⚡ Fun fact: i do not like doing a voice and face reveal
 
 <!---
-eevkachu/taoism is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+eevkachu/taoism is a ✨ special ✨ repository because his `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
